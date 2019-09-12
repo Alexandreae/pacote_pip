@@ -1,1 +1,1 @@
-from my_hello import world
+from .my_hello import world
