@@ -1,0 +1,10 @@
+README.md
+setup.py
+my_hello/__init__.py
+my_hello/my_hello.py
+my_hello_alexandreae.egg-info/PKG-INFO
+my_hello_alexandreae.egg-info/SOURCES.txt
+my_hello_alexandreae.egg-info/dependency_links.txt
+my_hello_alexandreae.egg-info/requires.txt
+my_hello_alexandreae.egg-info/top_level.txt
+scripts/hello.py

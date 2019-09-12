@@ -1,0 +1,14 @@
+Metadata-Version: 1.2
+Name: my-hello-alexandreae
+Version: 0.1
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Alexandre Edington
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6

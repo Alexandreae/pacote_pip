@@ -13,5 +13,6 @@ setup(name='my_hello_alexandreae',
           ],
       install_requires=[
           'Ipython>1.0'
-      ]
+      ],
+      scripts=['scripts/hello.py']
       )     
